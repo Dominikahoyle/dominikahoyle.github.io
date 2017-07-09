@@ -1,0 +1,142 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dominikahoyle.github.io" resolutions="1x" timestamp="1499614886337">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="gify.css" crc="4235086788" ref="gify"/>
+    <file name="nomq_gify.css" crc="58067407" ref="gify"/>
+    <file name="animacje.css" crc="3840878895" ref="animacje"/>
+    <file name="nomq_animacje.css" crc="141312222" ref="animacje"/>
+    <file name="kontakt.css" crc="4154007104" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="4200530549" ref="kontakt"/>
+    <file name="index.css" crc="301671511" ref="index"/>
+    <file name="nomq_index.css" crc="262204655" ref="index"/>
+    <file name="rysunki.css" crc="120172447" ref="rysunki"/>
+    <file name="nomq_rysunki.css" crc="3909667492" ref="rysunki"/>
+  </folder>
+  <folder name="assets">
+    <file name="bez-nazwy-1-.mp4" crc="3810148772" seo="true" mt="1490093567000"/>
+    <file name="bukiecik.mp4" crc="3919675824" seo="true" mt="1493580353000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animacje:rysunki:gify:kontakt"/>
+    <file name="museutils.js" crc="46400467" ref="index:animacje:rysunki:gify:kontakt"/>
+    <file name="whatinput.js" crc="86476730" ref="index:animacje:rysunki:gify:kontakt"/>
+    <file name="museconfig.js" crc="4273287925" ref="index:animacje:rysunki:gify:kontakt"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:animacje:rysunki:gify:kontakt"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:animacje:rysunki:gify:kontakt"/>
+    <file name="require.js" crc="85721165" ref="index:animacje:rysunki:gify:kontakt"/>
+  </folder>
+  <folder name="images">
+    <file name="twoim grzechem2.jpg" crc="4271779584" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="patu.jpg" crc="4126524326" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="slipki.jpg" crc="3973434158" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="helooo2.jpg" crc="3769438017" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="helooo3.jpg" crc="9886697" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="smog.jpg" crc="4241802961" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="pieniążki2.jpg" crc="3928817640" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="twoim grzechem2184x261.jpg" crc="393367969" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="patu186x263.jpg" crc="373884379" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="slipki186x262.jpg" crc="4263906681" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="helooo2186x263.jpg" crc="4014417740" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="helooo3186x263.jpg" crc="4110532160" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="smog276x254.jpg" crc="166435237" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="pieniążki2211x280.jpg" crc="4148287085" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="twoim grzechem2171x242.jpg" crc="3890057576" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="patu181x256.jpg" crc="4261391719" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="slipki216x305.jpg" crc="189683725" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="helooo2204x289.jpg" crc="515443993" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="helooo3206x292.jpg" crc="499067862" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="smog216x199.jpg" crc="118562808" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="pieniążki2230x306.jpg" crc="82877712" seo="true" ref="rysunki">
+      <caption webpage="rysunki" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="rysunki:gify:kontakt"/>
+    <file name="bukiecik.gif" crc="400165488" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="papa.gif" crc="3985811996" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="abram.gif" crc="237543892" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="maryje.gif" crc="3881952132" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="twist.gif" crc="4166850539" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="raj.gif" crc="156459533" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="371465507" seo="true" mt="1499609877887" redirect="true"/>
+  <file name="animacje.html" crc="475391513" seo="true" mt="1499608514003" redirect="true"/>
+  <file name="rysunki.html" crc="447567404" seo="true" mt="1499608811082" redirect="true"/>
+  <file name="gify.html" crc="3849269708" seo="true" mt="1499608841322" redirect="true"/>
+  <file name="kontakt.html" crc="500650564" seo="true" mt="1499610029220" redirect="true"/>
+</manifest>
