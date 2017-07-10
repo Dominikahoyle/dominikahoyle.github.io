@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dominikahoyle.github.io" resolutions="1x" timestamp="1499614886337">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dominikahoyle.github.io" resolutions="1x" timestamp="1499683952377">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="gify.css" crc="4235086788" ref="gify"/>
-    <file name="nomq_gify.css" crc="58067407" ref="gify"/>
+    <file name="gify.css" crc="4269807739" ref="gify"/>
+    <file name="nomq_gify.css" crc="274050379" ref="gify"/>
     <file name="animacje.css" crc="3840878895" ref="animacje"/>
     <file name="nomq_animacje.css" crc="141312222" ref="animacje"/>
-    <file name="kontakt.css" crc="4154007104" ref="kontakt"/>
-    <file name="nomq_kontakt.css" crc="4200530549" ref="kontakt"/>
-    <file name="index.css" crc="301671511" ref="index"/>
-    <file name="nomq_index.css" crc="262204655" ref="index"/>
+    <file name="kontakt.css" crc="4040157246" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="4167188190" ref="kontakt"/>
+    <file name="index.css" crc="59848491" ref="index"/>
+    <file name="nomq_index.css" crc="406094305" ref="index"/>
     <file name="rysunki.css" crc="120172447" ref="rysunki"/>
     <file name="nomq_rysunki.css" crc="3909667492" ref="rysunki"/>
   </folder>
@@ -96,7 +96,7 @@
     <file name="pieniążki2230x306.jpg" crc="82877712" seo="true" ref="rysunki">
       <caption webpage="rysunki" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="rysunki:gify:kontakt"/>
+    <file name="blank.gif" crc="4208392903" ref="rysunki:gify"/>
     <file name="bukiecik.gif" crc="400165488" seo="true" ref="gify">
       <caption webpage="gify" alt=""/>
       <caption webpage="gify" alt=""/>
@@ -134,9 +134,9 @@
       <caption webpage="gify" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="371465507" seo="true" mt="1499609877887" redirect="true"/>
+  <file name="index.html" crc="61760194" seo="true" mt="1499683941705" redirect="true"/>
   <file name="animacje.html" crc="475391513" seo="true" mt="1499608514003" redirect="true"/>
   <file name="rysunki.html" crc="447567404" seo="true" mt="1499608811082" redirect="true"/>
-  <file name="gify.html" crc="3849269708" seo="true" mt="1499608841322" redirect="true"/>
-  <file name="kontakt.html" crc="500650564" seo="true" mt="1499610029220" redirect="true"/>
+  <file name="gify.html" crc="3944247237" seo="true" mt="1499618403470" redirect="true"/>
+  <file name="kontakt.html" crc="301253986" seo="true" mt="1499622646124" redirect="true"/>
 </manifest>
