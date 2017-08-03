@@ -1,96 +1,186 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="przykład.com" resolutions="1x" timestamp="1493810627610">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dominikahoyle.github.io" resolutions="1x" timestamp="1501803368587">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-wzorcowa.css" crc="265266747" ref="index"/>
-    <file name="master_b-wzorcowa.css" crc="4257470617" ref="kontakt:różowa:żółta:czerwona:niebieska"/>
-    <file name="kontakt.css" crc="4089453351" ref="kontakt"/>
-    <file name="r__owa.css" crc="4089453351" ref="różowa"/>
-    <file name="___ta.css" crc="3994435233" ref="żółta"/>
-    <file name="index.css" crc="511061603" ref="index"/>
-    <file name="czerwona.css" crc="4089453351" ref="czerwona"/>
-    <file name="niebieska.css" crc="146428833" ref="niebieska"/>
+    <file name="site_global.css" crc="3934619435"/>
+    <file name="master_b-wzorcowa.css" crc="4175198732" ref="rysunek:animacje:gify"/>
+    <file name="nomq_preview_master_b-wzorcowa.css" crc="3924508227" ref="rysunek:animacje:gify"/>
+    <file name="index.css" crc="400520576" ref="index"/>
+    <file name="nomq_index.css" crc="4169939035" ref="index"/>
+    <file name="rysunek.css" crc="532672290" ref="rysunek"/>
+    <file name="nomq_rysunek.css" crc="141885489" ref="rysunek"/>
+    <file name="kontakt.css" crc="63573607" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="99096338" ref="kontakt"/>
+    <file name="animacje.css" crc="40293936" ref="animacje"/>
+    <file name="nomq_animacje.css" crc="4195258176" ref="animacje"/>
+    <file name="gify.css" crc="3804808329" ref="gify"/>
+    <file name="nomq_gify.css" crc="225452402" ref="gify"/>
+    <file name="kopia-dominika-hoyle.css" crc="26368375" ref="kopia-dominika-hoyle"/>
+    <file name="nomq_kopia-dominika-hoyle.css" crc="492981784" ref="kopia-dominika-hoyle"/>
+  </folder>
+  <folder name="assets">
+    <file name="bez-nazwy-1-.mp4" crc="3810148772" seo="true" mt="1490093567000"/>
+    <file name="bukiecik.mp4" crc="3919675824" seo="true" mt="1493580353000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:różowa:czerwona:żółta:niebieska:kontakt"/>
-    <file name="museutils.js" crc="4232573551" ref="index:różowa:czerwona:żółta:niebieska:kontakt"/>
-    <file name="whatinput.js" crc="86476730" ref="index:różowa:czerwona:żółta:niebieska:kontakt"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:różowa:czerwona:żółta:niebieska:kontakt"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:różowa:czerwona:żółta:niebieska:kontakt"/>
-    <file name="require.js" crc="4234670167" ref="index:różowa:czerwona:żółta:niebieska:kontakt"/>
-    <file name="webpro.js" crc="3770351119" ref="żółta:niebieska"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="żółta:niebieska"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="żółta:niebieska"/>
-    <file name="touchswipe.js" crc="3912873526" ref="żółta:niebieska"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animacje:rysunek:gify:kontakt:kopia-dominika-hoyle"/>
+    <file name="museutils.js" crc="4216313831" ref="index:animacje:rysunek:gify:kontakt:kopia-dominika-hoyle"/>
+    <file name="whatinput.js" crc="86476730" ref="index:animacje:rysunek:gify:kontakt:kopia-dominika-hoyle"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:animacje:rysunek:gify:kontakt:kopia-dominika-hoyle"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:animacje:rysunek:gify:kontakt:kopia-dominika-hoyle"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:animacje:rysunek:gify:kontakt:kopia-dominika-hoyle"/>
+    <file name="require.js" crc="3951022091" ref="index:animacje:rysunek:gify:kontakt:kopia-dominika-hoyle"/>
   </folder>
   <folder name="images">
-    <file name="warstwa 8.png" crc="3952050957" seo="true" ref="index:różowa:czerwona:żółta:niebieska:kontakt">
+    <file name="favicon.ico" crc="118103112" ref="index"/>
+    <file name="raczki.gif" crc="47733858" seo="true" ref="index:kopia-dominika-hoyle">
       <caption webpage="index" alt=""/>
-      <caption webpage="różowa" alt=""/>
-      <caption webpage="żółta" alt=""/>
-      <caption webpage="czerwona" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="kopia-dominika-hoyle" alt=""/>
+      <caption webpage="kopia-dominika-hoyle" alt=""/>
+      <caption webpage="kopia-dominika-hoyle" alt=""/>
+      <caption webpage="kopia-dominika-hoyle" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:animacje:rysunek:gify:kontakt:kopia-dominika-hoyle"/>
+    <file name="kompozycja-74.svg" crc="4240906675" seo="true" ref="animacje:rysunek:gify:kontakt">
+      <caption webpage="animacje" alt=""/>
+      <caption webpage="animacje" alt=""/>
+      <caption webpage="animacje" alt=""/>
+      <caption webpage="animacje" alt=""/>
+      <caption webpage="animacje" alt=""/>
+      <caption webpage="animacje" alt=""/>
+      <caption webpage="animacje" alt=""/>
+      <caption webpage="animacje" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
       <caption webpage="kontakt" alt=""/>
-      <caption webpage="niebieska" alt=""/>
-    </file>
-    <file name="warstwa 9.png" crc="249519567" seo="true" ref="index:różowa:czerwona:żółta:niebieska:kontakt">
-      <caption webpage="index" alt=""/>
-      <caption webpage="różowa" alt=""/>
-      <caption webpage="żółta" alt=""/>
-      <caption webpage="czerwona" alt=""/>
       <caption webpage="kontakt" alt=""/>
-      <caption webpage="niebieska" alt=""/>
-    </file>
-    <file name="kształt 2.png" crc="4052159869" seo="true" ref="index:różowa:czerwona:żółta:niebieska:kontakt">
-      <caption webpage="index" alt=""/>
-      <caption webpage="różowa" alt=""/>
-      <caption webpage="żółta" alt=""/>
-      <caption webpage="czerwona" alt=""/>
       <caption webpage="kontakt" alt=""/>
-      <caption webpage="niebieska" alt=""/>
-    </file>
-    <file name="_mg_1886.jpg" crc="165642084" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="warstwa 7.png" crc="124591134" seo="true" ref="index:różowa:czerwona:żółta:niebieska:kontakt">
-      <caption webpage="index" alt=""/>
-      <caption webpage="różowa" alt=""/>
-      <caption webpage="żółta" alt=""/>
-      <caption webpage="czerwona" alt=""/>
       <caption webpage="kontakt" alt=""/>
-      <caption webpage="niebieska" alt=""/>
     </file>
-    <file name="warstwa 10.png" crc="4119986936" seo="true" ref="index:różowa:czerwona:żółta:niebieska:kontakt">
-      <caption webpage="index" alt=""/>
-      <caption webpage="różowa" alt=""/>
-      <caption webpage="żółta" alt=""/>
-      <caption webpage="czerwona" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="niebieska" alt=""/>
+    <file name="kompozycja 74_poster_.png" crc="3816750056" ref="animacje"/>
+    <file name="helooo2-kopia.jpg" crc="114171783" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
     </file>
-    <file name="bielanyrgb.jpg" crc="335454067" seo="true" ref="żółta">
-      <caption webpage="żółta" alt=""/>
+    <file name="kompozycja-73.svg" crc="4139092333" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="żółta:niebieska"/>
-    <file name="loading.gif" crc="3815509949" ref="żółta:niebieska"/>
-    <file name="ełk2.jpg" crc="371916619" seo="true" ref="niebieska">
-      <caption webpage="niebieska" alt=""/>
+    <file name="kompozycja 73_poster_.png" crc="200511596" ref="rysunek"/>
+    <file name="twoim grzechem2-kopia.jpg" crc="3933627942" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
     </file>
-    <file name="escape room.jpg" crc="153171997" seo="true" ref="niebieska">
-      <caption webpage="niebieska" alt=""/>
+    <file name="slipki-kopia.jpg" crc="4279850439" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
     </file>
-    <file name="mac z pisankamirgb.jpg" crc="3989474094" seo="true" ref="niebieska">
-      <caption webpage="niebieska" alt=""/>
+    <file name="patu-kopia.jpg" crc="3852316648" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
     </file>
-    <file name="hel32.jpg" crc="4260709407" seo="true" ref="niebieska">
-      <caption webpage="niebieska" alt=""/>
+    <file name="helooo3-kopia.jpg" crc="3995322418" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
     </file>
-    <file name="klątwa2.jpg" crc="157088438" seo="true" ref="niebieska">
-      <caption webpage="niebieska" alt=""/>
+    <file name="djbit2.jpg" crc="4176339807" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="pieniążki2.jpg" crc="85182383" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="slipki-kopia503x712.jpg" crc="70966417" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="pieniążki2506x671.jpg" crc="457261397" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="twoim grzechem2-kopia382x541.jpg" crc="4066448284" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="slipki-kopia384x543.jpg" crc="3867540967" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="patu-kopia382x541.jpg" crc="255981733" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="helooo3-kopia386x545.jpg" crc="3810649644" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="helooo2-kopia382x541.jpg" crc="101500870" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="djbit2384x543.jpg" crc="87098101" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="pieniążki2381x506.jpg" crc="164645330" seo="true" ref="rysunek">
+      <caption webpage="rysunek" alt=""/>
+    </file>
+    <file name="bukiecik.gif" crc="400165488" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="papa2.gif" crc="4042626127" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="abram.gif" crc="237543892" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="maryje.gif" crc="3881952132" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="twist.gif" crc="4166850539" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+    </file>
+    <file name="raj.gif" crc="156459533" seo="true" ref="gify">
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
+      <caption webpage="gify" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4068696504" seo="true" mt="1493807224792" redirect="true"/>
-  <file name="różowa.html" crc="53915475" seo="true" mt="1493806523209" redirect="true"/>
-  <file name="czerwona.html" crc="151159148" seo="true" mt="1493806523209" redirect="true"/>
-  <file name="żółta.html" crc="3947362194" seo="true" mt="1493809655713" redirect="true"/>
-  <file name="niebieska.html" crc="362174803" seo="true" mt="1493806523209" redirect="true"/>
-  <file name="kontakt.html" crc="310514521" seo="true" mt="1493806523209" redirect="true"/>
+  <file name="index.html" crc="4155289738" seo="true" mt="1501781781400" redirect="true"/>
+  <file name="animacje.html" crc="403559432" seo="true" mt="1501780324300" redirect="true"/>
+  <file name="rysunek.html" crc="3847634674" seo="true" mt="1501780324300" redirect="true"/>
+  <file name="gify.html" crc="3802378723" seo="true" mt="1501780324300" redirect="true"/>
+  <file name="kontakt.html" crc="55330210" seo="true" mt="1501781409444" redirect="true"/>
+  <file name="kopia-dominika-hoyle.html" crc="404466324" seo="true" mt="1501781260842" redirect="true"/>
 </manifest>
